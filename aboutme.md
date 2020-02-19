@@ -1,10 +1,12 @@
 ---
 layout: page
-title: Hola! I'm Tianyi Hu
+title: Tianyi Hu
 subtitle: The world in my eyes
 ---
 
 ### Pianist/Extreme Traveller/Skiing/Skydiving/Photograph Lover/Data Analyst
+
+Hola!
 
 My name is Tianyi Hu. I just graduated from Columbia University last December, with a master’s degree in Quantitative Method of Social Science, where I took courses like Modern Data Structure, Data Visualization, Time Series and Machine Learning. I’ve always had a strong interest in data analyst position. I had solid acadamic foundation in coding languages such as R, Python, SQL and Tableau. Also, born in Tokyo, grew up in Shanghai, and studied in New York broaden my international view to see every item.
 
