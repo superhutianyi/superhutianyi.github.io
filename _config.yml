@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: Hola 
+title: Hola Tiana
 
 # Short description of your site
-description: Tiana
+description: My website
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -21,7 +21,13 @@ url: "https://superhutianyi.github.io"
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Contact: "contactinfo"
+  Project:
+    - Data Visualization: "https://github.com/superhutianyi/newssentiment"
+    - News Sentiment Analysis: "https://github.com/superhutianyi/datavisualization"
+  Contact: 
+    - LinkedIn: "https://www.linkedin.com/in/tianyihu777/"
+    - Learn markdown: "http://www.markdowntutorial.com/"
+ 
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
