@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hola! I'm Tiana Hu
+title: Hola! I'm Tianyi Hu
 subtitle: The world in my eyes
 ---
 
