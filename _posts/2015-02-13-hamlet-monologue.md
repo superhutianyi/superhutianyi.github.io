@@ -2,6 +2,7 @@
 layout: post
 title: Data Visualization Projects
 subtitle: Olympics Medals/Manhattan Violation Distribution/Text Mining Kickstarter Projects/Network Analysis of U.S. Senate Tweets
+bigimg: /img/path.jpg
 tags: [ggplot, ggmap, text analysis, sentiment analysis, network analysis, data visualization]
 ---
 
