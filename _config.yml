@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: Hola
+title: Hola Tiana
 
 # Short description of your site
 description: Tianyi Hu
@@ -28,7 +28,7 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/myimage.jpg"
+# avatar: "/img/myimage.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -68,11 +68,11 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "superhutianyi@example.com"
+  email: "superhutianyi@gmail.com"
   github: superhutianyi
   instagram: hutianyier
 #  reddit: yourname
- linkedin: Tianyi Hu
+  linkedin: Tianyi Hu
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
