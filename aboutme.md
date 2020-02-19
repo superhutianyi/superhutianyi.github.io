@@ -11,4 +11,4 @@ Besides, I have plenty of interests. I have practised piano since I was 3, and I
 
 ### my history
 
-To be honest, I'm now actively seeking Data Analyst full time job opportunities in US. If my background aligns with your group’s mission and values, please email me or give me some tips regarding to job seeking. You can also check out my LinkedIn Page[here](https://www.linkedin.com/in/tianyihu777/) and it will show **all** my practical experience and acadamic background.
+To be honest, I'm now actively seeking Data Analyst full time job opportunities in US. If my background aligns with your group’s mission and values, please email me or give me some tips regarding to job seeking. You can also check out my LinkedIn Page [here](https://www.linkedin.com/in/tianyihu777/) and it will show **all** my practical experience and acadamic background.
